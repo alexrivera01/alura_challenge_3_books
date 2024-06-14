@@ -1,13 +1,13 @@
-package com.alura.alura_challenge_3_books;
+package com.alura.challenge_books;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AluraChallenge3BooksApplication {
+public class ChallengeBooksApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AluraChallenge3BooksApplication.class, args);
+		SpringApplication.run(ChallengeBooksApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.alura.alura_challenge_3_books;
+package com.alura.challenge_books;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AluraChallenge3BooksApplicationTests {
+class ChallengeBooksApplicationTests {
 
 	@Test
 	void contextLoads() {
